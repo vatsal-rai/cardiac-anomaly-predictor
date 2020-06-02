@@ -1,0 +1,249 @@
+2020-02-20 02:11:42,719 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 02:13:59,474 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 02:16:36,393 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 02:16:48,649 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 09:47:06,259 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 09:47:49,071 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 11:47:59,671 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 14:17:28,947 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 14:20:38,258 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 14:20:56,032 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 14:22:23,663 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 14:25:25,788 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 14:27:20,955 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 14:27:36,588 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-02-20 14:29:36,359 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-04-22 09:17:40,925 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-04-22 09:17:56,572 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-04-22 09:18:17,067 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-04-22 09:18:17,554 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13069306930693073, best pos: [1 1 1 1 1 1 1 1 1 1 1 1 1]
+2020-04-22 09:24:21,725 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 1, 'w': 0.9, 'k': 30, 'p': 2}
+2020-04-22 09:24:22,146 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.14625031733942626, best pos: [1 1 1 1 1 1 1 1 0 0 1 1 1]
+2020-04-22 09:26:30,242 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 2, 'c2': 1, 'w': 0.9, 'k': 30, 'p': 2}
+2020-04-22 09:26:34,818 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13069306930693073, best pos: [1 1 1 1 1 1 1 1 1 1 1 1 1]
+2020-04-22 09:26:58,229 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.9, 'k': 30, 'p': 2}
+2020-04-22 09:27:02,724 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13069306930693073, best pos: [1 1 1 1 1 1 1 1 1 1 1 1 1]
+2020-04-22 09:27:11,652 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.9, 'k': 30, 'p': 2}
+2020-04-22 09:27:55,238 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13069306930693073, best pos: [1 1 1 1 1 1 1 1 1 1 1 1 1]
+2020-04-22 09:29:19,944 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.9, 'k': 30, 'p': 2}
+2020-04-22 09:30:19,306 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-22 09:33:48,109 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.9, 'k': 30, 'p': 2}
+2020-04-22 09:44:00,855 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-22 09:49:27,875 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-22 09:49:34,049 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1835506574256296, best pos: [0 1 1 0 0 1 0 0 1 1 1 1 1]
+2020-04-22 09:49:54,105 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-22 09:50:56,752 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1922495080003423, best pos: [0 1 1 0 0 1 1 0 1 1 0 1 1]
+2020-04-22 09:55:23,637 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-22 10:05:16,924 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-22 10:30:16,327 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-22 10:31:16,808 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1835506574256296, best pos: [0 1 1 0 0 1 0 0 1 1 1 1 1]
+2020-04-22 11:06:22,149 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-22 11:07:23,085 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1861935940218477, best pos: [0 0 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-22 11:09:16,745 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-22 11:10:15,108 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19488591882718703, best pos: [0 1 1 0 0 1 1 0 1 1 1 0 1]
+2020-04-22 11:24:42,104 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-22 11:25:44,681 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-23 13:13:52,024 - matplotlib.font_manager - INFO - findfont: Found a missing font file.  Rebuilding cache.
+2020-04-23 13:13:52,977 - matplotlib.font_manager - INFO - Could not open font file /System/Library/Fonts/Supplemental/NISC18030.ttf: In FT2Font: Could not set the fontsize
+2020-04-23 13:13:53,506 - matplotlib.font_manager - INFO - Could not open font file /System/Library/Fonts/Apple Color Emoji.ttc: In FT2Font: Could not set the fontsize
+2020-04-23 13:13:54,248 - matplotlib.font_manager - INFO - generated new fontManager
+2020-04-23 13:13:55,713 - matplotlib.font_manager - INFO - findfont: Found a missing font file.  Rebuilding cache.
+2020-04-23 13:13:55,843 - matplotlib.font_manager - INFO - Could not open font file /System/Library/Fonts/Supplemental/NISC18030.ttf: In FT2Font: Could not set the fontsize
+2020-04-23 13:13:55,909 - matplotlib.font_manager - INFO - Could not open font file /System/Library/Fonts/Apple Color Emoji.ttc: In FT2Font: Could not set the fontsize
+2020-04-23 13:13:56,246 - matplotlib.font_manager - INFO - generated new fontManager
+2020-04-23 13:13:57,116 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-23 13:15:22,845 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1861935940218477, best pos: [0 0 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-23 13:27:48,297 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-23 14:21:02,978 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-23 14:21:02,979 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-23 14:21:02,980 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-23 14:21:02,982 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-23 14:21:14,078 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-23 14:22:31,607 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19855999543652494, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-23 18:48:11,436 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-23 18:48:11,439 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-23 18:48:11,440 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-23 18:48:11,441 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-23 18:48:24,458 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-23 18:49:38,789 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19547323807079098, best pos: [0 1 1 0 0 1 0 0 1 1 1 1 1]
+2020-04-23 18:54:53,144 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-23 18:54:53,146 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-23 18:54:53,147 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-23 18:54:53,148 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-23 18:55:01,815 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-23 18:56:17,085 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-23 19:13:46,276 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-23 19:13:46,277 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-23 19:13:46,278 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-23 19:13:46,280 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-23 19:13:55,883 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-23 19:15:09,666 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-23 19:23:03,972 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-23 19:23:03,973 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-23 19:23:03,974 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-23 19:23:03,977 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-23 19:23:12,485 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-23 19:24:28,928 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19547323807079098, best pos: [0 1 1 0 0 1 1 0 1 0 1 1 1]
+2020-04-23 19:51:33,777 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-23 19:51:33,778 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-23 19:51:33,780 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-23 19:51:33,781 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-23 19:51:43,497 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-23 19:52:55,565 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-24 11:57:11,904 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-24 11:57:33,598 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-24 11:57:33,599 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-24 11:57:33,600 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-24 11:57:33,601 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-24 11:57:47,053 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-24 11:58:59,963 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-24 12:04:52,876 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-24 12:06:09,327 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1861935940218477, best pos: [0 0 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-24 12:06:21,321 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-24 12:06:21,322 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-24 12:06:21,324 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-24 12:06:21,325 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-24 12:06:30,666 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-24 12:07:46,712 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1861935940218477, best pos: [0 0 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-24 12:11:52,308 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-24 12:13:04,199 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.20512825076295593, best pos: [0 0 1 0 0 0 1 0 1 0 1 1 1]
+2020-04-24 19:16:57,744 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-24 19:16:57,745 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-24 19:16:57,746 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-24 19:16:57,748 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-24 19:17:06,001 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-24 19:18:19,098 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-24 19:20:54,438 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-24 19:22:08,398 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19547323807079098, best pos: [0 1 1 0 0 1 1 0 1 0 1 1 1]
+2020-04-24 19:28:18,745 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-24 19:29:32,776 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-24 22:00:02,360 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-24 22:01:16,354 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-28 21:26:46,926 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-28 21:28:28,824 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-28 21:29:03,785 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-28 21:29:03,786 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-28 21:29:03,787 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-28 21:29:03,789 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-28 21:29:12,986 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-28 21:30:27,609 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.2134616582527593, best pos: [0 0 1 0 0 0 1 0 0 1 1 1 1]
+2020-04-28 21:47:19,344 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-28 21:47:19,345 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-28 21:47:19,346 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-28 21:47:19,347 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-28 21:47:28,714 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-28 21:48:42,566 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1835506574256296, best pos: [0 1 1 0 0 1 0 0 1 1 1 1 1]
+2020-04-28 21:50:23,470 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-28 21:50:23,471 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-28 21:50:23,474 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-28 21:50:23,475 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-28 21:50:33,426 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-28 21:51:50,115 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.18648399075896308, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-28 21:56:28,126 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-28 21:56:28,127 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-28 21:56:28,128 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-28 21:56:28,130 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-28 21:56:36,451 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-28 21:57:51,333 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1861935940218477, best pos: [0 1 1 0 0 1 0 0 1 1 1 1 1]
+2020-04-28 21:58:11,491 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-28 21:58:11,492 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-28 21:58:11,493 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-28 21:58:11,494 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-28 21:58:19,810 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-28 21:59:32,447 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-28 22:29:03,740 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-28 22:30:21,851 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1835506574256296, best pos: [0 1 1 0 0 1 0 0 1 1 1 1 1]
+2020-04-28 22:32:15,542 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-28 22:33:27,746 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-29 19:19:17,133 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-29 19:20:28,513 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19287605031231272, best pos: [0 1 1 0 0 0 0 0 1 1 1 1 1]
+2020-04-29 19:56:23,707 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-29 19:57:38,154 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-29 20:03:32,518 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-29 20:04:45,783 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1861935940218477, best pos: [0 0 1 0 0 1 1 0 1 1 1 1 1]
+2020-04-29 20:05:34,716 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-29 20:06:52,041 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.20450823422035874, best pos: [0 0 1 0 0 1 1 0 1 1 0 1 1]
+2020-04-29 20:07:19,894 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-29 20:07:19,895 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-29 20:07:19,896 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-29 20:07:19,898 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-29 20:07:28,038 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-04-29 20:08:39,503 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.20380011979122103, best pos: [0 1 1 0 0 1 1 0 1 1 1 0 1]
+2020-05-01 21:09:22,281 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-01 21:09:22,284 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-01 21:09:22,285 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-01 21:09:22,286 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-01 21:09:34,992 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-01 21:10:49,636 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1861935940218477, best pos: [0 0 1 0 0 1 1 0 1 1 1 1 1]
+2020-05-01 21:28:10,999 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-01 21:28:11,001 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-01 21:28:11,002 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-01 21:28:11,003 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-01 21:28:19,245 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-01 21:29:32,150 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19547323807079098, best pos: [0 1 1 0 0 1 1 0 0 1 1 1 1]
+2020-05-01 21:30:50,361 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-01 21:30:50,362 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-01 21:30:50,363 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-01 21:30:50,364 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-01 21:30:59,873 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-01 21:32:15,871 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.18648399075896308, best pos: [0 1 1 0 0 0 1 0 1 1 1 1 1]
+2020-05-01 22:12:40,226 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-01 22:12:40,227 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-01 22:12:40,228 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-01 22:12:40,229 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-01 22:12:48,505 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-01 22:14:01,154 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1922495080003423, best pos: [0 1 1 0 0 1 1 0 0 1 1 1 1]
+2020-05-01 22:23:13,626 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-01 22:23:13,627 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-01 22:23:13,628 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-01 22:23:13,630 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-01 22:23:21,790 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-01 22:24:34,959 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19488591882718703, best pos: [0 1 1 0 0 1 1 0 1 1 1 0 1]
+2020-05-01 22:34:39,702 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-01 22:35:56,430 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1861935940218477, best pos: [0 0 1 0 0 1 1 0 1 1 1 1 1]
+2020-05-02 14:17:22,344 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-02 14:17:22,347 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-02 14:17:22,349 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-02 14:17:22,351 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-02 14:17:34,958 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-02 14:18:50,495 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1861935940218477, best pos: [0 0 1 0 0 1 1 0 1 1 1 1 1]
+2020-05-02 14:20:07,260 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-02 14:20:07,261 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-02 14:20:07,262 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-02 14:20:07,263 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-02 14:20:15,540 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-02 14:21:27,602 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19488591882718703, best pos: [0 1 1 0 0 1 1 0 1 1 1 0 1]
+2020-05-02 14:25:24,490 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-02 14:25:24,492 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-02 14:25:24,493 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-02 14:25:24,495 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-02 14:25:32,658 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-02 14:26:46,222 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.20988873106870878, best pos: [0 1 1 0 0 1 0 0 1 1 1 0 1]
+2020-05-02 14:28:49,509 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-02 14:28:49,512 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-02 14:28:49,514 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-02 14:28:49,515 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-02 14:28:59,365 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-02 14:30:14,023 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1922495080003423, best pos: [0 1 1 0 0 1 1 0 0 1 1 1 1]
+2020-05-02 14:34:19,879 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-02 14:34:19,881 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-02 14:34:19,882 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-02 14:34:19,884 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-02 14:34:30,343 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-02 14:35:47,149 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.20450823422035874, best pos: [0 1 0 0 0 1 1 0 1 1 0 1 1]
+2020-05-09 21:46:22,257 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-09 21:46:22,260 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-09 21:46:22,262 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-09 21:46:22,263 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-09 21:46:37,307 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-09 21:48:59,220 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-05-10 13:06:58,347 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-05-10 13:06:58,350 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-05-10 13:06:58,351 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-05-10 13:06:58,353 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-05-10 13:07:12,934 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-10 13:08:36,656 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1835506574256296, best pos: [0 1 1 0 0 1 0 0 1 1 1 1 1]
+2020-05-10 13:26:41,882 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-10 13:27:55,455 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17725322152819384, best pos: [0 1 1 0 0 1 1 0 1 1 1 1 1]
+2020-05-10 16:49:19,806 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 1.47, 'c2': 1.47, 'w': 0.7, 'k': 30, 'p': 2}
+2020-05-10 16:50:36,916 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1861935940218477, best pos: [0 0 1 0 0 1 1 0 1 1 1 1 1]
